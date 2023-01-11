@@ -1,0 +1,15 @@
+import turtle
+
+t=turtle.Turtle()
+
+t.speed(50)
+turtle.bgcolor("blue")
+for i in range(240):
+    t.right(30)
+    t.color("black")
+    t.circle(i)
+    t.forward(i)
+    t.backward(66)
+    t.fillcolor('red')
+
+turtle.done()
