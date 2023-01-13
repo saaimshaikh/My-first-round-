@@ -13,3 +13,6 @@ for i in range(240):
     t.fillcolor('red')
 
 turtle.done()
+
+
+# the code is stands for python turtle designs
